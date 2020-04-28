@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>SAR</Name>
+  <Guid>90b869c3-c9ea-438d-b055-2ba311899260</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>2</Type>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>0</State>
+      </MouseEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>3</Type>
+      <Delay>0</Delay>
+      <MouseMovement>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>976</X>
+          <Y>717</Y>
+          <Delay>0</Delay>
+</MouseMovementEvent>
+</MouseMovement>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>2</Type>
+      <Delay>2</Delay>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>1</State>
+      </MouseEvent>
+    </MacroEvent>
+  </MacroEvents>
+</Macro>

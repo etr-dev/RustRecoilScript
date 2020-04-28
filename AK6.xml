@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>AK6</Name>
+  <Guid>90b869c3-c9ea-438d-b055-2ba311899260</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>2</Type>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>0</State>
+      </MouseEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>3</Type>
+      <Delay>0</Delay>
+      <MouseMovement>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>976</X>
+          <Y>717</Y>
+          <Delay>0</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>968</X>
+          <Y>729</Y>
+          <Delay>29</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>960</X>
+          <Y>741</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>952</X>
+          <Y>753</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>944</X>
+          <Y>765</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>935</X>
+          <Y>775</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>936</X>
+          <Y>786</Y>
+          <Delay>29</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>937</X>
+          <Y>797</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>938</X>
+          <Y>808</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>939</X>
+          <Y>819</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>940</X>
+          <Y>831</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>928</X>
+          <Y>841</Y>
+          <Delay>29</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>916</X>
+          <Y>851</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>904</X>
+          <Y>861</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>892</X>
+          <Y>871</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>880</X>
+          <Y>881</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>870</X>
+          <Y>890</Y>
+          <Delay>29</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>860</X>
+          <Y>899</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>850</X>
+          <Y>908</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>840</X>
+          <Y>917</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>828</X>
+          <Y>927</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>828</X>
+          <Y>935</Y>
+          <Delay>29</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>828</X>
+          <Y>943</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>828</X>
+          <Y>951</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>828</X>
+          <Y>959</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+<MouseMovementEvent>
+	<Type>3</Type>
+	  <X>828</X>
+          <Y>967</Y>
+          <Delay>26</Delay>
+</MouseMovementEvent>
+</MouseMovement>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>2</Type>
+      <Delay>2</Delay>
+      <MouseEvent>
+        <MouseButton>1</MouseButton>
+        <State>1</State>
+      </MouseEvent>
+    </MacroEvent>
+  </MacroEvents>
+</Macro>
