@@ -1,7 +1,7 @@
-### RustRecoilScript
+## RustRecoilScript
 Recoil Script that creates a .xml macro for razer synapse
 
-## This Project was forked 6,000 Times on Repl.it!
+### This Project was forked 6,000 Times on Repl.it!
 
 This script calculates how your mouse should move in order to have minimum bullet spread.
 It then outputs that into .xml format so that razer synapse can intepret the data.
