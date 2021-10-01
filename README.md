@@ -8,3 +8,5 @@ It then outputs that into .xml format so that razer synapse can intepret the dat
 
 for a full video that shows a demo and project creation watch the video below:<Br>
 https://www.youtube.com/watch?v=1dWNhtjVAR8&t=192s
+
+https://replit.com/@erobin27/RustRecoilScript
